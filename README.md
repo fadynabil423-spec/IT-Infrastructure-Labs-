@@ -1,4 +1,4 @@
-# IT Infrastructure & Networking Labs
+Networking Labs
 
 This repository contains practical labs demonstrating fundamental IT infrastructure and networking skills.
 
